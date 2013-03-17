@@ -1,4 +1,4 @@
-﻿=== Plugin Name ===
+﻿=== NBRM Exchange Rates ===
 Donate link: http://iok.mk/darko
 Tags: nbrm, exchange rates, нбрм, курсна листа
 Requires at least: 2.5
