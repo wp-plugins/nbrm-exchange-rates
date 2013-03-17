@@ -23,8 +23,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Screenshots ==
 
-1. /assets/screenshot_1.png
-2. /assets/screenshot_2.png
+1. /trunk/assets/screenshot_1.png
+2. /trunk/assets/screenshot_2.png
 
 == Changelog ==
 
