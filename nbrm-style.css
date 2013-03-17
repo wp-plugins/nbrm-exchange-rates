@@ -1,0 +1,11 @@
+#nbrm_wrapper{font-size:14px;font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;margin:5px auto;}
+#nbrm_title{padding:10px 5px;}
+#nbrm_exchange_table{width:100%;}
+#nbrm_exchange_table th{padding:5px 0px;color:#fff;margin-bottom:5px;text-align:center;border-top:1px solid rgba(255,255,255,.25);font-size: 12px;font-weight: normal;}
+#nbrm_exchange_table th:first-child{-webkit-border-radius:0 0 0 5px}
+#nbrm_exchange_table th:last-child{-webkit-border-radius:0 0 5px 0}
+.nbrm_center{text-align:center;}
+.nbrm_item{cursor:pointer;}
+.nbrm_flag{padding-left:3px;}
+.nbrm_item:hover{background:#f4f4f4;}
+.nbrm_item td{padding:2px 0;}
